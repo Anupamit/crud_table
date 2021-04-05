@@ -1,3 +1,13 @@
+# For cloning
+https://github.com/Anupamit/crud_table.git
+After that we have to install material table.
+npm install material-table --save
+npm install @material-ui/core --save
+npm install @material-ui/icons --save
+npm install @material-ui/lab --save
+npm install axios --save
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
